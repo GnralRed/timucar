@@ -129,7 +129,7 @@ body {
 
 /*--------------------------- BEGINNING OF FORM-PART -------------------------------------*/
 .content-form {
-    color: antiquewhite;
+    color: white;
     background-color:rgba(31, 41, 53, .4) ;
     padding: 25px 0 95px 0;
 }
@@ -238,7 +238,7 @@ footer .top {
 }
 
 .astra {
-    background-color: antiquewhite;
+    background-color: white;
     border-radius: 3px;
 }
 
@@ -336,7 +336,7 @@ footer .top {
     }
 
     .astra {
-        background-color: antiquewhite;
+        background-color: white;
         border-radius: 3px;
     }
 
